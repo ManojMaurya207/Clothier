@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clothier</string>
+
+
+    //Headings
+    <string name="heading_one">Your Infinite Wardrobe</string>
+    <string name="heading_two">Discover New Favorites</string>
+    <string name="heading_three">Fast Online Shopping</string>
+
+    // Description
+    <string name="desc_one">Explore an infinite wardrobe to express your unique style effortlessly.</string>
+    <string name="desc_two">Stay trendy with our curated collection of fashion essentials.</string>
+    <string name="desc_three">Shop online with speed and convenience for a seamless shopping experience.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

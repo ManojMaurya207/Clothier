@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Clothier" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--         <item name="colorPrimary">@color/purple</item>-->
+    </style>
+    <style name="Theme.Clothier" parent="Base.Theme.Clothier" />
+
+    <style name="Base.Theme.ClothierMainPage" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/purple</item>
+    </style>
+    <style name="Theme.Clothier.MainPage" parent="Base.Theme.ClothierMainPage" />
+
+    <!--For Splash with GoogleAPI-->
+    <style name="ClothierSplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splashBack</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/clothier_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.Clothier</item>
+    </style>
+
+
+
+    <style name="textStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="textStyleBold" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

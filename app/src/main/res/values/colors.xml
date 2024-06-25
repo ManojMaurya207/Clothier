@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //onboarding colors
+    <color name="background">#F7F7FA</color>
+    <color name="buttontext">#50C2C9</color>
+
+    //indicator color
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#50C2C9</color>
+
+    //Splash Screen
+    <color name="splashBack">#27125D</color>
+
+    <color name="statusBarColor">@color/purple</color>
+    <color name="navigationBarColor">@android:color/white</color>
+    <color name="red">#E130BB</color>
+    <color name="purple">#9C27B0</color>
+
+
+    <color name="primary">#6A7CFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="primary_text">#565B65</color>
+    <color name="secondary_text">#9B9A9D</color>
+    <color name="dashboard_item_1">#2CC2EA</color>
+    <color name="dashboard_item_2">#4DE9C9</color>
+    <color name="dashboard_item_3">#72A4FF</color>
+    <color name="dashboard_item_4">#8B72FF</color>
+
+    <color name="purple_dark">#521C98</color>
+    <color name="purple_light">#A421D2</color>
+    <color name="grey">#E9E9E9</color>
+</resources>
